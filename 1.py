@@ -1,5 +1,5 @@
 """
-Задача:
+Задача.
 Спарсить и вывести список самых больших звезд из статьи по адресу:
 http://light-science.ru/kosmos/vselennaya/top-10-samyh-bolshih-zvezd-vo-vselennoj.html
 и сохранить в .txt файл.
@@ -55,7 +55,7 @@ with open('result.txt', 'w', encoding='utf-8') as f:
     # записываем туда строку с результатом;
 
 """
-Результат:
+Результа.
 Топ самых больших звезд:
 1. VY Большого Пса
 2. VV Цефея A
